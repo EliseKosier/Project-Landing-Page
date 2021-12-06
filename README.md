@@ -1,1 +1,3 @@
 # Project-Landing-Page
+One of my Odin Project assignments... 
+12/6/2021 I hope to clean up the code to remove any unnessisary code, perhaps a new color scheme and pictures as well?
